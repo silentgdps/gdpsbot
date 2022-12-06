@@ -1,8 +1,8 @@
 {
     "setup": {
-        "token": "token",
-        "server": "wyliegdps02.7m.pl",
-        "prefix": "w?",
+        "token": "MTAyMjEwMjkxMDM1MzUzOTEwMw.GLfJar.ggUOz-X613A6kehnX_mHxqbpBuPYbk7hvLE90A",
+        "server": "silentgdps.xyz/21",
+        "prefix": "s!",
         "commandColour": "FF0000",
         "customStatus": "Being coded",
         "cronEnabled": true,
@@ -37,7 +37,7 @@
     },
     "rateLogs": {
         "enabled": true,
-        "rateChannel": "844584605113122816",
+        "rateChannel": "1039229714860089495",
         "difficultyColours": false,
         "notificationsOn": false,
         "notificationRoleID": "845281385156706315",
